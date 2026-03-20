@@ -35,7 +35,7 @@ PreView<img width="1919" height="1079" alt="image" src="https://github.com/user-
 
 Go to the Releases page
 
-Download WidTronic.exe
+Download [WidTronic.exe](https://github.com/YashHaveNoJob/WidTronic/releases/download/WidTronic/WidTronic.exe)
 
 Place it anywhere and run – no installation needed!
 
@@ -46,12 +46,22 @@ Prerequisites
 Python 3.13 or higher
 
 pip (Python package manager)
-*Required Libraries*
+
+
+*Required Libraries* and thanks to developer of
+
+
 Library	Version	Purpose
-pystray	≥0.19.0	System tray icon and menu
-Pillow	≥10.0.0	Image handling for tray icon
-pywin32	≥305	Windows registry access for auto‑start
-tkinter	Built-in	GUI framework
+
+
+`pystray`	≥0.19.0	System tray icon and menu
+
+`Pillow`	≥10.0.0	Image handling for tray icon
+
+`pywin32`	≥305	Windows registry access for auto‑start
+
+`tkinter`	Built-in	GUI framework
+
 
 **One Line CMD**
 ```bash
@@ -61,6 +71,7 @@ tkinter	Built-in	GUI framework
    ```bash
    https://github.com/YOUR_USERNAME/WidTronic.git
    ```
+   or use [Source.zip](https://github.com/YashHaveNoJob/WidTronic/releases/download/WidTronic/source.zip)
 
 2. **Usage**
 
