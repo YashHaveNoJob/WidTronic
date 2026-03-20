@@ -41,7 +41,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='WinTronic',
+    name='WiDTronic',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
