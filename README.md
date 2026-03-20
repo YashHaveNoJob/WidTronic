@@ -1,4 +1,4 @@
-# 🪟 WidTronic 
+# WidTronic 
 
 **WidTronic** is a modern, minimalist Windows desktop widget suite designed with a "Liquid-Glass" aesthetic. It features a highly customizable floating clock and date widget with native Windows 11 Acrylic blur effects.
 
@@ -9,13 +9,12 @@
 ---
 
 ## ✨ Features
-
-* **Acrylic Glass UI:** Native Windows 11 blur effect for a seamless desktop experience.
-* **Fully Interactive:** Drag-and-drop positioning with double-click locking.
-* **Deep Customization:** * Change fonts (supports custom .ttf/.otf files).
-    * Independent color control for hours, minutes, and AM/PM.
-    * Adjustable opacity and "Always on Top" modes.
-* **Smart Docking:** Snap the day/date widget to the clock or position it freely.
+* **Dual Windows:** Separate clock and day displays that can work independently or together
+* **Customizable Appearance:**  Choose fonts, colors, sizes for every element
+* **System Tray:** Minimal tray icon with quick controls
+* **Auto‑Start**  Option to launch with Windows
+* **Custom Fonts**  Use your own .ttf/.otf fonts from %APPDATA%\WidTronic\fonts
+* **Light/Dark Theme**  Settings window adapts to your preference
 * **Performance Focused:** Low CPU/RAM footprint using optimized Tkinter and Win32 API calls.
 
 ## 🚀 Getting Started
